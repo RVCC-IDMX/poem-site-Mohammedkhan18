@@ -1,31 +1,18 @@
-# IDMX 11ty Sass Starter
 
-The set of development scripts in this starter is configured to watch and compile a simple Sass structure using 11ty.
 
-The code is located in the `src` folder and the page is created in the `public` folder.
+# Simple Web Site
 
-The `settings.json` in the `.vscode` folder sets the `LiveServer` configuration to serve from the `public` folder and can be used to serve the built page.
+#### By: Mohammed Zohair Khan
+    
 
-The build process includes minifiying and autoprefixing of styles via the `postbuild` script, which runs automatically after a `build`.
+#### I created this page to show off the poem, "The Sleeper" by Edgar Allan Poe. This is a love poem to a woman named irene, who is dead. I chose the graveyard image because the speaker is at the graveyard in the poem. 
 
-## Installation
 
-**`npm install`**
 
->Run this command once to install the needed node modules.
+# Credits
 
-## Development Scripts
+  * Poem: "The Sleeper" by Edgar Allan Poe (https://www.public-domain-poetry.com/edgar-allan-poe/sleeper-1719)
 
-**`npm start`**
+  * Photo by: Sacre Bleu (https://unsplash.com/photos/R__kiXB0I5M)
 
-> This script runs 11ty with hot reload and served at the url localhost:8080. It will reload whenever there are HTML or Sass changes.
-
-**`npm run build`**
-
-> This script does a production build and includes minified, autoprefixed CSS.
-
-Use this as the "Publish command" if needed by hosting services such as Netlify.
-
-## Resources
-
-<small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+  * Favicon: https://www.flaticon.com/free-icon/poetry_9087118?term=poetry&page=1&position=7&origin=tag&related_id=9087118 
